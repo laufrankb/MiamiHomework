@@ -4,7 +4,7 @@
 
 ## Overview and Origin
 ​
-* Microsoft is an American technology company that develops computer software, personal computers, and the operating system Windows
+* Microsoft is an American technology company that develops computer software, personal computers, and the operating system "*Windows*".
 
 * Microsoft was founded on April 4, 1975 by Bill Gates and Paul Allen initially to sell micro-software such as their BASIC interpreter, hence the name "*Microsoft.*"
 
@@ -69,7 +69,7 @@
 ​
 * Microsoft's products which follow mainly a subscription-based model provides Microsoft a huge amount of steady annual income. Personally, I believe that the current business model clearly works, and Microsoft should focus on improving their ongoing products instead of expanding towards another sector 
 ​
-* My reccomendation for Microsoft would be to grow their Azure cloud services by making strategic partnerships with other companies that deal with data/analytics across the world. This would allow Microsoft to streamline bottlenecks and provide more efficient services.
+* My recomendation for Microsoft would be to grow their Azure cloud services by making strategic partnerships with other companies that deal with data/analytics across the world. This would allow Microsoft to streamline bottlenecks and provide more efficient services.
 ​
 * Additionally, Microsoft should invest more capital into upgrading their current cloud infrastructure such as building and upgrading their servers which would evolve their current services and help resolve outage/DNS issues such as the one reported in this particular [Reuters article](https://www.reuters.com/article/idUSKBN2BO6TK).
 ​
